@@ -10,7 +10,7 @@
 
 </div>
 
-**GitHub repository description:** Starter repository for CS437 PA4, an Azure TaskFlow pipeline using App Service, Durable Functions, AKS, ACI, Blob Storage, and ACR.
+**GitHub repository description:** Starter repository for CS487 PA4, an Azure TaskFlow pipeline using App Service, Durable Functions, AKS, ACI, Blob Storage, and ACR.
 
 <div style="background:#f5f3ff;color:#111827;border-left:6px solid #7c3aed;padding:14px 18px;border-radius:10px;margin:18px 0;">
 This repository is the required starter structure for PA4. Fork it, complete the TODOs, deploy the Azure resources, commit your screenshots and write-up, then submit only your GitHub repository URL to the LMS.
